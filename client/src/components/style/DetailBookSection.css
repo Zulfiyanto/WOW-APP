@@ -1,0 +1,71 @@
+.info-box {
+  display: flex;
+  margin: 90px 0 118px 50px;
+}
+.image-info {
+  width: 30%;
+  margin-right: 50px;
+}
+.image-info img {
+  width: 100%;
+}
+.text-infos {
+}
+.title-info {
+  font-size: 5rem;
+  font-weight: 600;
+  font-family: "Times New Roman", Times, serif;
+}
+.writer-info {
+  font-size: 1.6rem;
+  color: #929292;
+  margin-bottom: 65px;
+}
+.label-info {
+  font-size: 1.6rem;
+  font-weight: 700;
+  margin-bottom: 15px;
+}
+
+.result-info {
+  font-size: 1.2rem;
+  color: #929292;
+  margin-bottom: 35px;
+}
+
+.desc-book {
+  margin-left: 50px;
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+.description {
+  margin-top: 23px;
+  text-align: justify;
+  width: 85%;
+  font-size: 1.5rem;
+  color: #929292;
+  line-height: 150%;
+}
+
+.button-detail {
+  margin-left: 50px;
+  display: flex;
+  justify-content: flex-end;
+  width: 85%;
+  margin-bottom: 72px;
+}
+
+.add-btn,
+.read-btn {
+  width: 15%;
+}
+
+.add-btn button,
+.read-btn button {
+  width: 90%;
+  border: none;
+  height: 5vh;
+  font-weight: 700;
+  border-radius: 5px;
+}

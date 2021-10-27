@@ -1,0 +1,77 @@
+.telp-subs img {
+  width: 26%;
+}
+.desc-subs img {
+  width: 10%;
+}
+
+.subscribe-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.subs-body {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.title-subs {
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 50px;
+}
+.desc-subs {
+  font-size: 1.5rem;
+  font-weight: normal;
+  margin-bottom: 26px;
+}
+.telp-subs {
+  font-size: 1.5rem;
+  font-weight: 800;
+  margin-bottom: 30px;
+}
+.input-subs {
+  margin-bottom: 15px;
+}
+.input-subs input {
+  width: 400px;
+  height: 6vh;
+  border-radius: 5px;
+  outline: none;
+  font-size: 1.5rem;
+  border: 2px solid #5e5e5e40;
+  background-color: #b4b4b440;
+  padding-left: 5px;
+}
+
+.upload-subs {
+  border-radius: 5px;
+  width: 400px;
+  height: 6vh;
+  color: #d60000;
+  font-weight: bold;
+  padding: auto;
+  border: 2px solid #5e5e5e40;
+  background-color: #b4b4b440;
+  font-size: 1.5rem;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 5px;
+  align-items: center;
+  margin-bottom: 55px;
+}
+
+.btn-subs button {
+  border-radius: 5px;
+  margin: 11px 0;
+  width: 400px;
+  height: 5vh;
+  background-color: #d60000 !important;
+  border: none !important;
+  font-weight: 700 !important;
+  font-size: 1.2rem !important;
+  color: white;
+}
