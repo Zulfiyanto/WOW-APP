@@ -1,7 +1,6 @@
 # Install Concurently
 
-npm i concurrently
-npm i nodemon
+npm i concurrently nodemon
 
 ## Edit your scripts in package.json like this
 
