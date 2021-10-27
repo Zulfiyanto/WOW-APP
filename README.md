@@ -1,8 +1,9 @@
 # Install Concurently
 
 npm i concurrently
+npm i nodemon
 
-## Edit your scripts i package.json like this
+## Edit your scripts in package.json like this
 
 "scripts": {
 "start": "nodemon index.js",
